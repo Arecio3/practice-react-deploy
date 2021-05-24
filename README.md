@@ -1,6 +1,6 @@
 # Deployment
 
-In this activity we will deploy the React Reading List application to Heroku.
+In this activity, we will deploy the React Reading List application to Heroku.
 
 ## Instructions
 
